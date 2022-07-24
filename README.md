@@ -1,2 +1,2 @@
 # CG-Laboratory
-Computer Graphics Lab - 18CS62
+Computer Graphics Lab - 18CSL67
